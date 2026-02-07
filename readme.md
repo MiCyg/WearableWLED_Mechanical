@@ -5,7 +5,7 @@
 
 ---
 
-The enclosure for the Wearable WLED device, designed for 3D printing and easy assembly. Currently split into two shell halves connected at the top for straightforward printing and assembly.
+The enclosure for the Wearable WLED device, designed for 3D printing and easy assembly. Currently split into two shell halves connected at the top for straightforward printing and assembly. STL to download are on my [GrabCad](https://grabcad.com/library/wearablewled-case-1)
 
 ## Files
 
